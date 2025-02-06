@@ -1,0 +1,5 @@
+Console.WriteLine("Enter a No");
+int n1 = Convert.ToInt32(Console,ReadLine());
+Console.WriteLine("Enter a No");
+int n2 = Convert.ToInt32(Console,ReadLine());
+int sum = n1+n2
